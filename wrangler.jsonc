@@ -44,7 +44,7 @@
   ],
   "kv_namespaces": [
      {
-      "binding": "KV_BINDING",
+      "binding": "KV",
       "preview_id": "b146a369eab346168c0238b91cc22812", // Override with DEPLOY_KV_PREVIEW_NAMESPACE_ID (falls back to DEPLOY_KV_NAMESPACE_ID)
       "id": "b146a369eab346168c0238b91cc22812" // Override with DEPLOY_KV_NAMESPACE_ID
     }
